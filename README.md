@@ -1,0 +1,1 @@
+Projeto de estação meteorológica com ESP32 baseado em um código existente, adaptado e modificado para uso em contexto educacional e acadêmico. Inclui ajustes e melhorias no sistema para testes, aprendizado e desenvolvimento, focado na integração de sensores e monitoramento de dados ambientais.
