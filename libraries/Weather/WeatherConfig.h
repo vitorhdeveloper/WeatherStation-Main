@@ -25,8 +25,8 @@
 #define NUM_DIRECTIONS_PER_PIN 4
 
 //	for sun position calculation and weather forecast
-#define LATITUDE (54.0+49.361/60.0) // customize
-#define LONGITUDE (9.0+36.987/60.0) // customize
+#define LATITUDE -29.698291
+#define LONGITUDE -52.434005
 
 //  wind vane and anemometer
 #if USE_WIND_AS5600
